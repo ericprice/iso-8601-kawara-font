@@ -16,3 +16,7 @@ The font and its editable Glyphs source are licensed under
 You must retain attribution, indicate modifications, and distribute adaptations
 under CC BY-SA 4.0 or a compatible license. The full terms, including the
 warranty disclaimer, are in [LICENSE](LICENSE).
+
+Version 1.001 adds slash (`/`, U+002F) and plus (`+`, U+002B) for numeric dates
+and positive UTC offsets. The new outlines match the existing diagonal, stem,
+and punctuation proportions and are included in both the Glyphs source and OTF.
